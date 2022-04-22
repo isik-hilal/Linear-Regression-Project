@@ -1,0 +1,9 @@
+Francesca Logiacco and Hilal Işık
+
+MidTerm Project
+This project is created and shared by the mentioned authors, 
+with each joint author enjoying an equal interest in the undivided whole.
+
+The data i scrapped from Australian Diamond Importers website on 24th Feb 2022.
+It includes diamond features, like shape, carat, colour, cut, clarity, 
+and other features and the price in AUD (excluding GST).
